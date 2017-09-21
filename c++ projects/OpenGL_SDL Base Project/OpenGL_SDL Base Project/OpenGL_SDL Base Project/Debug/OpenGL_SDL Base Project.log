@@ -1,0 +1,8 @@
+﻿  Source.cpp
+  GameScreenManager.cpp
+  GameScreenLevel1.cpp
+  GameScreen.cpp
+  Generating Code...
+SDL2main.lib(SDL_windows_main.obj) : error LNK2019: unresolved external symbol __imp__fprintf referenced in function _ShowError
+SDL2main.lib(SDL_windows_main.obj) : error LNK2019: unresolved external symbol __imp____iob_func referenced in function _ShowError
+C:\Users\olly\Desktop\it's august dummy\c++ projects\OpenGL_SDL Base Project\OpenGL_SDL Base Project\Debug\OpenGL_SDL Base Project.exe : fatal error LNK1120: 2 unresolved externals
